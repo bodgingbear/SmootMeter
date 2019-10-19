@@ -1,8 +1,20 @@
-# Dwóch pijanych studentów mierzy kumplem most
-**(Two drunk students measure bridge with a pal)**
+# WHYMIT (Two drunk students measure bridge with a pal)
+Original polish title: *Dwóch pijanych studentów mierzy kumplem most*
 
-Game created in Construct 3 on Gamejam.js (Polyjam [Global Game Jam])
+This game was created during **Global Game Jam (Polyjam – GameJam.js)**
 
-Live game:
-https://whymit.bodgingbear.dev
+## Technologies used
+* Construct 3
 
+## Play online
+
+[https://whymit.bodgingbear.dev](https://whymit.bodgingbear.dev)
+
+## Links
+
+GitHub: [https://github.com/bodgingbear/whymit](https://github.com/bodgingbear/whymit)
+
+## Screenshots
+| | |
+|-|-|
+|![screenshot 1](https://raw.githubusercontent.com/bodgingbear/whymit/master/website/screenshot.png)|!|

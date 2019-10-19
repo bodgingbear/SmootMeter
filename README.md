@@ -16,6 +16,4 @@ This game was created during **Global Game Jam (Polyjam – GameJam.js)**
 GitHub: [https://github.com/bodgingbear/whymit](https://github.com/bodgingbear/whymit)
 
 ## Screenshots
-| | |
-|-|-|
-|![screenshot 1](https://raw.githubusercontent.com/bodgingbear/whymit/master/website/screenshot.png)|!|
+![screenshot 1](https://raw.githubusercontent.com/bodgingbear/whymit/master/website/screenshot.png)

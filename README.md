@@ -2,7 +2,7 @@
 
 Original polish title: *Dwóch pijanych studentów mierzy kumplem most*
 
-This game was created during **Global Game Jam (Polyjam – GameJam.js)**
+This game was created during [**Global Game Jam (Polyjam – GameJam.js)**](https://globalgamejam.org/2019/jam-sites/polyjam-2019)
 
 ## Technologies used
 * Construct 3

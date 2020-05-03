@@ -1,6 +1,8 @@
-# WHYMIT (Two drunk students measure bridge with a pal)
-
+# WHYMIT
+Two drunk students measure bridge with a friend
 Original polish title: *Dwóch pijanych studentów mierzy kumplem most*
+
+![ ](https://raw.githubusercontent.com/bodgingbear/whymit/master/website/screenshot.png)
 
 This game was created during [**Global Game Jam (Polyjam – GameJam.js)**](https://globalgamejam.org/2019/jam-sites/polyjam-2019)
 
@@ -13,7 +15,4 @@ This game was created during [**Global Game Jam (Polyjam – GameJam.js)**](http
 
 ## Links
 
-GitHub: [https://github.com/bodgingbear/whymit](https://github.com/bodgingbear/whymit)
-
-## Screenshots
-![screenshot 1](https://raw.githubusercontent.com/bodgingbear/whymit/master/website/screenshot.png)
+* GitHub: [https://github.com/bodgingbear/whymit](https://github.com/bodgingbear/whymit)
